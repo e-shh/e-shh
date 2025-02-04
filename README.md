@@ -3,6 +3,11 @@ I am a first-year BCA student passionate about technology and innovation. With a
 
 I am driven by a desire for continuous learning and growth, aiming to contribute to meaningful projects in the tech industry. I look forward to collaborating with like-minded individuals and organizations to create impactful solutions in the ever-evolving digital landscape. currently learning react and three.js
 
+I’m thrilled to share that I am a part of the GeeksforGeeks chapters snu Tech Core Team! 🚀
+
+This opportunity is a great step in my journey of exploring technology, collaborating with like-minded peers, and contributing to the developer community. Looking forward to learning, growing, and making an impact!
+
+A big thank you to GeeksforGeeks chapters snu for this opportunity and to everyone who has supported me along the way! 🙌
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eiizz_zz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshani-paul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauleshani06@gmail.com) 
