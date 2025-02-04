@@ -1,5 +1,7 @@
 # 💫 About Me:
-frontend developer currently learning react and three.js
+I am a first-year BCA student passionate about technology and innovation. With a strong foundation in frontend design and development, I specialize in creating intuitive and visually appealing web interfaces. Currently, I am expanding my skill set by diving into backend development and exploring the fascinating fields of Artificial Intelligence (AI) and Machine Learning (ML).
+
+I am driven by a desire for continuous learning and growth, aiming to contribute to meaningful projects in the tech industry. I look forward to collaborating with like-minded individuals and organizations to create impactful solutions in the ever-evolving digital landscape. currently learning react and three.js
 
 
 ## 🌐 Socials:
