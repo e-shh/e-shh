@@ -7,7 +7,7 @@ I’m thrilled to share that I am a part of the GeeksforGeeks chapters SNU Tech 
 
 This opportunity is a great step in my journey of exploring technology, collaborating with like-minded peers, and contributing to the developer community. Looking forward to learning, growing, and making an impact!
 
-A big thank you to GeeksforGeeks chapters snu for this opportunity and to everyone who has supported me along the way! 🙌
+A big thank you to GeeksforGeeks chapters SNU for this opportunity and to everyone who has supported me along the way! 🙌
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eiizz_zz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshani-paul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauleshani06@gmail.com) 
