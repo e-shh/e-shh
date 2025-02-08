@@ -3,7 +3,7 @@ I am a first-year BCA student passionate about technology and innovation. With a
 
 I am driven by a desire for continuous learning and growth, aiming to contribute to meaningful projects in the tech industry. I look forward to collaborating with like-minded individuals and organizations to create impactful solutions in the ever-evolving digital landscape. currently learning react and three.js
 
-I’m thrilled to share that I am a part of the GeeksforGeeks chapters snu Tech Core Team! 🚀
+I’m thrilled to share that I am a part of the GeeksforGeeks chapters SNU Tech Core Team! 🚀
 
 This opportunity is a great step in my journey of exploring technology, collaborating with like-minded peers, and contributing to the developer community. Looking forward to learning, growing, and making an impact!
 
