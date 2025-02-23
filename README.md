@@ -21,6 +21,7 @@ I am a first-year BCA student passionate about technology and innovation. With a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=euii-ii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
