@@ -1,5 +1,6 @@
 # 💫 Hiii !!!!! am Eshani:
 
+
 I am a first-year BCA student passionate about technology and innovation. With a strong foundation in frontend design and development, I specialize in creating intuitive and visually appealing web interfaces. Currently, I am expanding my skill set by diving into backend development and exploring the fascinating fields of Artificial Intelligence (AI) and Machine Learning (ML).<br><br>I am driven by a desire for continuous learning and growth, aiming to contribute to meaningful projects in the tech industry. I look forward to collaborating with like-minded individuals and organizations to create impactful solutions in the ever-evolving digital landscape. currently learning react and three.js<br><br>I’m thrilled to share that I am a part of the GeeksforGeeks chapters SNU Tech Core Team! 🚀<br><br>This opportunity is a great step in my journey of exploring technology, collaborating with like-minded peers, and contributing to the developer community. Looking forward to learning, growing, and making an impact!<br><br>A big thank you to GeeksforGeeks chapters SNU for this opportunity and to everyone who has supported me along the way! 🙌<br>
 
 
