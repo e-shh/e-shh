@@ -1,4 +1,5 @@
 # 💫 Hiii !!!!! am Eshani:
+![studio ghibli GIF](https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8)
 ![Uploading studio ghibli GIF.gif…]()
 
 
