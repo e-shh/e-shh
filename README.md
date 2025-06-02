@@ -22,8 +22,10 @@
 # 💻 Tech Stack:
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dfce2dad-88d9-4048-bb3d-882f727bd6d6" width="500"/></td>
-    <td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/dfce2dad-88d9-4048-bb3d-882f727bd6d6" alt="Tech GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
+    </td>
+    <td>>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
