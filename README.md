@@ -48,11 +48,18 @@
 </table>
 
 # 📊 GitHub Stats:
-![Tech GIF by Hacker Noon](https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="250"/></td>
+    <td>
 
 ![](https://github-readme-stats.vercel.app/api?username=euii-ii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=euii-ii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=euii-ii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
