@@ -5,8 +5,10 @@ I am a first-year Bachelor of Computer Applications (BCA) student with a strong 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/eiizz_zz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauleshani06@gmail.com) 
 ![studio ghibli GIF (1)](https://github.com/user-attachments/assets/8579f8cf-618d-447d-a6c1-a85f6d29865a)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/eiizz_zz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauleshani06@gmail.com) 
+
 
 # 💻 Tech Stack:
 ![studio ghibli GIF by Spirited Away](https://github.com/user-attachments/assets/dfce2dad-88d9-4048-bb3d-882f727bd6d6)
