@@ -21,9 +21,8 @@
 
 # 💻 Tech Stack:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dfce2dad-88d9-4048-bb3d-882f727bd6d6" alt="Tech GIF" width="100%" />
-</p>
+![studio ghibli GIF by Spirited Away](https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e)
+
 
 ## 🖌️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
