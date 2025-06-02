@@ -57,16 +57,16 @@
     <td><img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="250"/></td>
     <td>
 
-![](https://github-readme-stats.vercel.app/api?username=euii-ii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=euii-ii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=euii-ii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   </td>
   </tr>
 </table>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=euii-ii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=euii-ii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -75,6 +75,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=euii-ii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=euii-ii&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=euii-ii&icon=4&color=2)](https://visitcount.itsvg.in)
