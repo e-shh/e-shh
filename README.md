@@ -20,7 +20,7 @@
 # 💻 Tech Stack:
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dfce2dad-88d9-4048-bb3d-882f727bd6d6" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dfce2dad-88d9-4048-bb3d-882f727bd6d6" width="500"/></td>
     <td>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
