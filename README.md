@@ -1,6 +1,6 @@
 # 💫 Hiii !!!!! am Eshani:
 ![studio ghibli GIF](https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8)
-![Uploading studio ghibli GIF.gif…]()
+
 
 
 I am a first-year Bachelor of Computer Applications (BCA) student with a strong passion for technology and innovation. My core expertise lies in frontend development, where I focus on crafting clean, intuitive, and responsive user interfaces. I am currently broadening my technical skill set by delving into backend development, while actively exploring the transformative fields of Artificial Intelligence (AI) and Machine Learning (ML).<br><br>In addition to my academic pursuits, I hold several active roles within the tech community. I am currently serving as an Evangelist for Hack4Bengal 4.0, interning at AI Wallah, and contributing as a Technical Member of the GeeksforGeeks SNU Chapter. These experiences have allowed me to deepen my technical knowledge, engage with real-world projects, and collaborate with professionals and peers who share a passion for innovation.<br><br>I am committed to continuous learning and growth, with a long-term goal of contributing to impactful and forward-thinking technology initiatives. I am eager to connect and collaborate with individuals and organizations that are driving meaningful change in the digital landscape.
