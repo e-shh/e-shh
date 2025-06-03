@@ -214,28 +214,26 @@ const eshani = {
 </table>
 
 <br>
-<!-- Enhanced Languages with Multiple Views -->
+<!-- Languages with Multiple Views -->
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+LANGUAGE+ANALYTICS;%F0%9F%9A%80+CODE+MASTERY;%E2%9A%A1+SKILL+BREAKDOWN" alt="Language Analytics" />
-  </h2>
+  <h2>💻 Programming Language Analytics</h2>
   
-  <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.15), rgba(78, 205, 196, 0.15), rgba(69, 183, 209, 0.15)); border-radius: 30px; padding: 35px; margin: 25px 0; border: 2px solid rgba(255, 107, 157, 0.25); backdrop-filter: blur(20px); box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);">
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.1), rgba(78, 205, 196, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(255, 107, 157, 0.2);">
     
 <table width="100%">
 <tr>
 <td width="50%" align="center">
 
-### 📊 Language Distribution
+**📊 Language Distribution**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=8&custom_title=🎯%20Code%20Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=15&langs_count=8)
 
 </td>
 <td width="50%" align="center">
 
-### 🍩 Visual Breakdown
+**🍩 Donut Chart View**
 
-![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=6&custom_title=🎨%20Distribution)
+![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=15&langs_count=6)
 
 </td>
 </tr>
@@ -243,35 +241,24 @@ const eshani = {
 
 <br>
 
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+<!-- Language Proficiency Bars -->
+<div align="center" style="max-width: 700px; margin: 0 auto;">
 
-<br>
+**🔥 Proficiency Levels:**
 
-<!-- Enhanced Proficiency Section -->
-<div align="center" style="max-width: 750px; margin: 0 auto;">
+<div align="center">
 
-### 🔥 Mastery Levels
-
-<div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.08), rgba(78, 205, 196, 0.08)); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255, 107, 157, 0.15);">
-
-**Frontend Technologies:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
 ![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
 
-**Styling & Markup:**
-![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-92%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-88%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
-
-**Backend & Database:**
+![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![Node.js](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
 
-**Emerging Technologies:**
 ![Solidity](https://img.shields.io/badge/Solidity-60%25-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636)
-![Three.js](https://img.shields.io/badge/Three.js-65%25-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-88%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
 
 </div>
 
