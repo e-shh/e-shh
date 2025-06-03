@@ -132,7 +132,7 @@ const eshani = {
     
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,tailwind&theme=dark" alt="Frontend Technologies" />
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=vite,threejs,jquery&theme=dark" alt="Frontend Tools" />
 
@@ -147,7 +147,7 @@ const eshani = {
     
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,firebase&theme=dark" alt="Backend Technologies" />
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=netlify,vercel,gcp&theme=dark" alt="Cloud Platforms" />
 
