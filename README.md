@@ -353,15 +353,12 @@ Solidity 60% | Three.js 65%
 <div style="background: linear-gradient(135deg, rgba(150, 206, 180, 0.15), rgba(69, 183, 209, 0.15), rgba(147, 51, 234, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(150, 206, 180, 0.4); box-shadow: 0 0 30px rgba(150, 206, 180, 0.3);">
 
 <!-- Complete Tech Stack -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,git,github,vscode,figma,firebase,netlify,vercel&theme=dark" alt="Complete Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,git,github,vscode,firebase,netlify,vercel&theme=dark" alt="Complete Tech Stack" />
 
 </div>
 </div>
 
-<!-- Final Neon Divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:4ecdc4,50:45b7d1,75:96ceb4,100:feca57&height=150&section=footer&text=&fontSize=0&animation=fadeIn" width="100%"/>
-</div>
+>
 
 <!-- Final Message with Enhanced Holographic Effect -->
 <div align="center">
@@ -380,7 +377,3 @@ Solidity 60% | Three.js 65%
 </div>
 </div>
 
-<!-- Animated Snake Contribution Graph -->
-<div align="center">
-<img src="https://github.com/euii-ii/euii-ii/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
