@@ -1,89 +1,220 @@
-# 💫 Hiii !!!!! am Eshani:
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" alt="Studio Ghibli GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
-    </td>
-    <td>
-      I am a first-year Bachelor of Computer Applications (BCA) student with a strong passion for technology and innovation. My core expertise lies in frontend development, where I focus on crafting clean, intuitive, and responsive user interfaces. I am currently broadening my technical skill set by delving into backend development, while actively exploring the transformative fields of Artificial Intelligence (AI) and Machine Learning (ML).<br><br>
-      In addition to my academic pursuits, I hold several active roles within the tech community. I am currently serving as an Evangelist for Hack4Bengal 4.0, interning at AI Wallah, and contributing as a Technical Member of the GeeksforGeeks SNU Chapter. These experiences have allowed me to deepen my technical knowledge, engage with real-world projects, and collaborate with professionals and peers who share a passion for innovation.<br><br>
-      I am committed to continuous learning and growth, with a long-term goal of contributing to impactful and forward-thinking technology initiatives. I am eager to connect and collaborate with individuals and organizations that are driving meaningful change in the digital landscape.
-    </td>
-  </tr>
-</table>
+# 💫 Hey there! I'm Eshani ✨
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;BCA+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Tech+Community+Builder+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-![studio ghibli GIF (1)](https://github.com/user-attachments/assets/8579f8cf-618d-447d-a6c1-a85f6d29865a)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/eiizz_zz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauleshani06@gmail.com) 
-
-
-# 💻 Tech Stack:
-
-![studio ghibli GIF by Spirited Away](https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e)
-
-
-## 🖌️ Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-
-## 🧠 Backend / Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-## ⛓️ Blockchain / Web3
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-## ☁️ Hosting / Cloud
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## 🧰 Tools & Package Managers
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-
-## 🧪 Others
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-
-# 📊 GitHub Stats:
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="250"/></td>
-    <td>
-
-![](https://github-readme-stats.vercel.app/api?username=euii-ii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=euii-ii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  </td>
-  </tr>
-</table>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=euii-ii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=euii-ii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" alt="Studio Ghibli GIF" width="300" style="border-radius: 15px;">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=euii-ii&icon=4&color=2)](https://visitcount.itsvg.in)
+
+## 🌟 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+🎓 **First-year BCA Student** passionate about crafting digital experiences  
+💻 **Frontend Developer** specializing in responsive, intuitive interfaces  
+🚀 **Currently Exploring** backend development, AI, and ML  
+🎯 **Mission**: Contributing to impactful technology initiatives  
+
+### 🏢 Current Roles
+- 🔥 **Evangelist** at Hack4Bengal 4.0
+- 🤖 **Intern** at AI Wallah  
+- 👩‍💻 **Technical Member** at GeeksforGeeks SNU Chapter
+
+</td>
+<td width="40%">
+
+```javascript
+const eshani = {
+  pronouns: "she/her",
+  code: ["JavaScript", "TypeScript", "C"],
+  askMeAbout: ["web dev", "frontend", "AI/ML"],
+  technologies: {
+    frontend: ["React", "Next.js", "TailwindCSS"],
+    backend: ["Node.js", "MongoDB"],
+    blockchain: ["Solidity"],
+    tools: ["Git", "Vite", "Three.js"]
+  },
+  currentFocus: "Building innovative web experiences"
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=pulse)](https://instagram.com/eiizz_zz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauleshani06@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e" alt="Studio Ghibli Coding GIF" width="200">
+</div>
+
+### 🎨 Frontend Magic
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+</div>
+
+### 🔧 Backend & Database
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+### ⛓️ Blockchain & Web3
+<div align="center">
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+</div>
+
+### ☁️ Cloud & Hosting
+<div align="center">
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+### 🛠️ Tools & Others
+<div align="center">
+
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="150" style="float: left; margin-right: 20px;">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euii-ii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=euii-ii&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=euii-ii&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🎯 Current Goals
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 Learning Journey
+- [ ] Mastering backend development with Node.js
+- [ ] Diving deeper into AI/ML concepts  
+- [ ] Exploring Web3 and blockchain technology
+- [ ] Building full-stack applications
+- [ ] Contributing to open-source projects
+
+</td>
+<td width="50%">
+
+### 🚀 2024 Targets
+- [ ] Complete 100 days of code
+- [ ] Launch 3 major projects
+- [ ] Contribute to 10+ open source repos
+- [ ] Mentor junior developers
+- [ ] Speak at tech events
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🔥 Top Contributions
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=euii-ii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💖 Thanks for visiting my profile!
+
+<img src="https://komarev.com/github-profile-views-counter/svg/?username=euii-ii&color=ff69b4&style=for-the-badge" />
+
+**Let's build something amazing together! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
