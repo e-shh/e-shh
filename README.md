@@ -229,141 +229,71 @@ const eshani = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## 📊 GitHub Statistics Overview
-
+<!-- Enhanced Languages with Multiple Views -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&icon_color=4ECDC4&border_radius=15" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=euii-ii&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=4ECDC4&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=FF6B9D&sideNums=4ECDC4&dates=ffffff&border_radius=15" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-## 🎨 Language Distribution & Analysis
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>📈 Compact Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&border_radius=15&langs_count=10&custom_title=🎯 Code Distribution" alt="Top Languages Compact" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🍩 Donut View</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&border_radius=15&langs_count=8&custom_title=🎨 Language Mix" alt="Top Languages Donut" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
-
-## 🔥 Technology Mastery & Proficiency
-
-<div align="center">
-
-### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js"/>
-</p>
-
-### 🎨 Styling & Design
-<p>
-  <img src="https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind-Advanced-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/SASS-Intermediate-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" alt="SASS"/>
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-Advanced-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL"/>
-</p>
-
-### 🚀 Emerging Technologies
-<p>
-  <img src="https://img.shields.io/badge/Solidity-Learning-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Three.js-Intermediate-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Web3-Learning-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=F16822" alt="Web3"/>
-  <img src="https://img.shields.io/badge/GraphQL-Learning-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098" alt="GraphQL"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-Expert-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS Code-Expert-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker"/>
-</p>
-
-</div>
-
-<br>
-
-## 📈 Detailed Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B9D&line=4ECDC4&point=ffffff&area=true&area_color=FF6B9D" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euii-ii&theme=radical" alt="Repos per Language"/>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=euii-ii&theme=radical" alt="Most Commit Language"/>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=euii-ii&theme=radical&utc_offset=5.5" alt="Productive Time"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-## 🏆 Achievements & Metrics
-
-<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+LANGUAGE+ANALYTICS;%F0%9F%9A%80+CODE+MASTERY;%E2%9A%A1+SKILL+BREAKDOWN" alt="Language Analytics" />
+  </h2>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=euii-ii&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.15), rgba(78, 205, 196, 0.15), rgba(69, 183, 209, 0.15)); border-radius: 30px; padding: 35px; margin: 25px 0; border: 2px solid rgba(255, 107, 157, 0.25); backdrop-filter: blur(20px); box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);">
+    
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 📊 Language Distribution
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=8&custom_title=🎯%20Code%20Stats)
+
+</td>
+<td width="50%" align="center">
+
+### 🍩 Visual Breakdown
+
+![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=20&langs_count=6&custom_title=🎨%20Distribution)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- Neon Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+
+<br>
+
+<!-- Enhanced Proficiency Section -->
+<div align="center" style="max-width: 750px; margin: 0 auto;">
+
+### 🔥 Mastery Levels
+
+<div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.08), rgba(78, 205, 196, 0.08)); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255, 107, 157, 0.15);">
+
+**Frontend Technologies:**
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+
+**Styling & Markup:**
+![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-92%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-88%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
+
+**Backend & Database:**
+![Node.js](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
+
+**Emerging Technologies:**
+![Solidity](https://img.shields.io/badge/Solidity-60%25-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636)
+![Three.js](https://img.shields.io/badge/Three.js-65%25-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000)
+
 </div>
 
----
-
-<div align="center">
-  <h3>💡 "Code is poetry written in logic" 💭</h3>
-  <p><em>Constantly evolving, constantly learning, constantly building the future.</em></p>
 </div>
 
+  </div>
+</div>
 <!-- Trophy Showcase -->
 <div align="center">
   <h2>🏆 Achievement Gallery</h2>
