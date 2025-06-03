@@ -294,65 +294,108 @@ const eshani = {
 
   </div>
 </div>
-<!-- Trophy Showcase -->
+<!-- Animated Header with Neon Effect -->
 <div align="center">
-  <h2>🏆 Achievement Gallery</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C;Full+Stack+Developer+%F0%9F%92%BB;Code+Enthusiast+%26+Problem+Solver+%F0%9F%9A%80;Building+Tomorrow's+Technology+Today!+%E2%9C%A8" alt="Animated Header" />
+</div>
+
+<!-- Neon Divider 1 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Achievement Gallery with Animated Title -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+ACHIEVEMENT+GALLERY+%F0%9F%8F%86;%E2%9A%A1+CODING+MILESTONES+%E2%9A%A1;%F0%9F%94%A5+DEVELOPER+STATS+%F0%9F%94%A5" alt="Achievement Title" />
   
-  <div style="background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(255, 107, 157, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(255, 215, 0, 0.2);">
+<div style="background: linear-gradient(135deg, rgba(255, 215, 0, 0.15), rgba(255, 107, 157, 0.15), rgba(78, 205, 196, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(255, 215, 0, 0.4); box-shadow: 0 0 30px rgba(255, 215, 0, 0.3);">
     
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=euii-ii&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews)
-
-  </div>
+</div>
 </div>
 
-<!-- Quote Section -->
+<!-- Neon Divider 2 -->
 <div align="center">
-  <h2>💭 Daily Inspiration</h2>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B9D,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=80&section=header&text=&fontSize=0&animation=blinking" width="100%"/>
+</div>
+
+<!-- Daily Inspiration with Animated Title -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2800&pause=1200&color=4ECDC4&center=true&vCenter=true&width=700&lines=%F0%9F%92%AD+DAILY+INSPIRATION+%F0%9F%92%AD;%E2%9C%A8+WISDOM+FOR+CODERS+%E2%9C%A8;%F0%9F%8C%9F+MOTIVATION+STATION+%F0%9F%8C%9F" alt="Inspiration Title" />
   
-  <div style="background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), rgba(59, 130, 246, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(16, 185, 129, 0.2);">
+<div style="background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(59, 130, 246, 0.15), rgba(147, 51, 234, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(16, 185, 129, 0.4); box-shadow: 0 0 30px rgba(78, 205, 196, 0.3);">
     
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_category=programming)
-
-  </div>
+</div>
 </div>
 
-<!-- GitHub Commit Activity Graph -->
+<!-- Neon Divider 3 -->
 <div align="center">
-  <h2>📈 Commit Activity Graph</h2>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+</div>
+
+<!-- Commit Activity with Animated Title -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=3200&pause=800&color=FECA57&center=true&vCenter=true&width=800&lines=%F0%9F%93%88+COMMIT+ACTIVITY+GRAPH+%F0%9F%93%88;%F0%9F%94%A5+CODING+JOURNEY+%F0%9F%94%A5;%E2%9A%A1+DEVELOPMENT+TIMELINE+%E2%9A%A1" alt="Activity Title" />
   
-  <div style="background: linear-gradient(135deg, rgba(139, 69, 19, 0.1), rgba(255, 140, 0, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(255, 140, 0, 0.2);">
+<div style="background: linear-gradient(135deg, rgba(139, 69, 19, 0.15), rgba(255, 140, 0, 0.15), rgba(255, 99, 71, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(255, 140, 0, 0.4); box-shadow: 0 0 30px rgba(255, 206, 84, 0.3);">
     
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&custom_title=Eshani's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&color=FF6B9D&line=4ECDC4&point=FECA57&area=true&hide_border=true&radius=20)
-
-  </div>
+</div>
 </div>
 
-
-
-<!-- Contribution Activity -->
+<!-- Neon Divider 4 -->
 <div align="center">
-  <h2>🔥 Contribution Highlights</h2>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B9D,50:4ECDC4,100:96CEB4&height=90&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Contribution Highlights with Animated Title -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2700&pause=900&color=FF6B9D&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+CONTRIBUTION+HIGHLIGHTS+%F0%9F%94%A5;%E2%AD+TOP+REPOSITORIES+%E2%AD;%F0%9F%9A%80+CODING+EXCELLENCE+%F0%9F%9A%80" alt="Contribution Title" />
   
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=euii-ii&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 </div>
 
-<!-- Footer with Particle Animation -->
+<!-- Neon Divider 5 -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,15,20,24&height=150&section=header&text=&fontSize=0&animation=blinking" width="100%"/>
+</div>
 
+<!-- Animated Tech Stack Section -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=96CEB4&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+ARSENAL+%F0%9F%9B%A0%EF%B8%8F;%E2%9A%A1+SKILLS+%26+TOOLS+%E2%9A%A1;%F0%9F%92%BB+TECHNOLOGY+STACK+%F0%9F%92%BB" alt="Tech Stack Title" />
+
+<div style="background: linear-gradient(135deg, rgba(150, 206, 180, 0.15), rgba(69, 183, 209, 0.15), rgba(147, 51, 234, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(150, 206, 180, 0.4); box-shadow: 0 0 30px rgba(150, 206, 180, 0.3);">
+
+<!-- Add your tech stack icons here -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,docker,aws,mongodb,postgresql&theme=dark" alt="Tech Stack" />
+
+</div>
+</div>
+
+<!-- Final Neon Divider -->
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:4ecdc4,50:45b7d1,75:96ceb4,100:feca57&height=150&section=footer&text=&fontSize=0&animation=fadeIn" width="100%"/>
+</div>
 
-<!-- Final Message with Holographic Effect -->
-<div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.2), rgba(78, 205, 196, 0.2), rgba(69, 183, 209, 0.2)); border-radius: 30px; padding: 40px; margin: 30px 0; border: 2px solid rgba(255, 107, 157, 0.3); backdrop-filter: blur(15px); box-shadow: 0 30px 60px rgba(0, 0, 0, 0.2);">
+<!-- Final Message with Enhanced Holographic Effect -->
+<div align="center">
+<div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.2), rgba(78, 205, 196, 0.2), rgba(69, 183, 209, 0.2), rgba(150, 206, 180, 0.2)); border-radius: 30px; padding: 40px; margin: 30px 0; border: 3px solid rgba(255, 107, 157, 0.4); backdrop-filter: blur(20px); box-shadow: 0 0 50px rgba(255, 107, 157, 0.3), inset 0 0 50px rgba(78, 205, 196, 0.1);">
 
-<h2>✨ "Code is poetry written in logic, and I'm here to write masterpieces!" ✨</h2>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=FF6B9D&center=true&vCenter=true&width=900&lines=Thanks+for+exploring+my+digital+universe!+%F0%9F%8C%9F;Let's+collaborate+and+build+something+extraordinary!+%F0%9F%9A%80;Ready+to+make+an+impact+in+tech+together!+%F0%9F%92%AB;Coffee%2C+Code%2C+Create%2C+Repeat!+%E2%98%95%F0%9F%92%BB%E2%9C%A8" alt="Footer Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&width=900&lines=%E2%9C%A8+%22Code+is+poetry+written+in+logic%2C;and+I'm+here+to+write+masterpieces!%22+%E2%9C%A8" alt="Quote" />
 
 <br><br>
 
-**🌟 Let's connect and turn ideas into digital reality! 🌟**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=900&lines=Thanks+for+exploring+my+digital+universe!+%F0%9F%8C%9F;Let's+collaborate+and+build+something+extraordinary!+%F0%9F%9A%80;Ready+to+make+an+impact+in+tech+together!+%F0%9F%92%AB;Coffee%2C+Code%2C+Create%2C+Repeat!+%E2%98%95%F0%9F%92%BB%E2%9C%A8;Innovation+starts+with+a+single+line+of+code!+%F0%9F%8C%88;Debugging+the+world%2C+one+bug+at+a+time!+%F0%9F%90%9B%E2%9C%A8" alt="Footer Message" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&duration=4000&pause=2000&color=FECA57&center=true&vCenter=true&width=700&lines=%F0%9F%8C%9F+Let's+connect+and+turn+ideas+into+digital+reality!+%F0%9F%8C%9F" alt="Call to Action" />
 
 </div>
+</div>
 
+<!-- Animated Snake Contribution Graph -->
+<div align="center">
+<img src="https://github.com/euii-ii/euii-ii/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
