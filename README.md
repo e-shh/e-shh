@@ -354,7 +354,7 @@ Solidity 60% | Three.js 65%
 </div>
 
 >
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- Final Message with Enhanced Holographic Effect -->
 <div align="center">
 <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.2), rgba(78, 205, 196, 0.2), rgba(69, 183, 209, 0.2), rgba(150, 206, 180, 0.2)); border-radius: 30px; padding: 40px; margin: 30px 0; border: 3px solid rgba(255, 107, 157, 0.4); backdrop-filter: blur(20px); box-shadow: 0 0 50px rgba(255, 107, 157, 0.3), inset 0 0 50px rgba(78, 205, 196, 0.1);">
