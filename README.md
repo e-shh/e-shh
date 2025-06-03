@@ -2,13 +2,7 @@
 
 # 🌟 Welcome to Eshani's Digital Universe 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20There!%20I'm%20Eshani&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20|%20AI%20Enthusiast%20|%20Tech%20Leader&descAlignY=55&descAlign=50" width="100%"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=FF6B9D&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👩‍💻+Passionate+Frontend+Developer;🎨+UI%2FUX+Design+Enthusiast;🤖+Exploring+AI+%26+Machine+Learning;🌟+Building+Beautiful+Digital+Experiences;⚡+From+Concept+to+Code+to+Creation" alt="Typing SVG"/>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -72,10 +66,6 @@ const myMotto = () => {
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF">
-
-<br><br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=euii-ii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF&custom_title=⚡%20Quick%20Stats" width="100%"/>
 
 </div>
@@ -116,7 +106,7 @@ const myMotto = () => {
 
 ## 💻 My Tech Universe
 
-<img src="https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e" width="350" style="border-radius: 20px;">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding GIF">
 
 <br><br>
 
@@ -129,24 +119,24 @@ const myMotto = () => {
 ### 🎨 **Frontend Mastery**
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
 </div>
 
 ### 🔧 **Backend & Database**
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </div>
 
@@ -156,30 +146,30 @@ const myMotto = () => {
 ### ☁️ **Cloud & Deployment**
 <div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 </div>
 
 ### 🛠️ **Tools & Frameworks**
 <div align="center">
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
 
 </div>
 
 ### 🌟 **Exploring**
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white)
 
 </div>
 
@@ -279,24 +269,27 @@ graph TD
 
 <div align="center">
 
-## 🎯 Coding Habits & Patterns
+## 🎯 Development Insights & Habits
 
 <table>
 <tr>
 <td width="50%">
 
+### 📊 Coding Analytics
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=euii-ii&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&custom_title=⏰%20Weekly%20Development%20Breakdown" />
 
 </td>
 <td width="50%">
 
-### 🌟 Quick Facts
-- 🔥 **Favorite Time to Code:** Late nights & early mornings
-- 💡 **Debugging Style:** Rubber duck debugging champion
-- 🎯 **Code Philosophy:** Clean, readable, and elegant
-- 🚀 **Learning Mode:** Always ON
-- 🎨 **Design Inspiration:** Studio Ghibli aesthetics
-- ☕ **Fuel:** Coffee & curiosity
+### 🌟 Developer Profile
+- **💻 Coding Style:** Clean, modular, and well-documented
+- **🎯 Focus Areas:** Frontend architecture & UI performance
+- **⚡ Preferred Stack:** React + TypeScript + Tailwind
+- **🔧 Development Approach:** Test-driven development
+- **📚 Learning Philosophy:** Build while you learn
+- **🎨 Design Mindset:** User-centered design thinking
+- **🚀 Deployment Strategy:** CI/CD with automated testing
+- **🔍 Code Quality:** ESLint + Prettier + Husky hooks
 
 </td>
 </tr>
@@ -343,8 +336,6 @@ Building an AI-powered web app that helps students learn coding through interact
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 ### 🎉 Thanks for exploring my digital space! 
 
 <img src="https://komarev.com/ghpvc/?username=euii-ii&style=for-the-badge&color=FF1493&label=Profile+Views&labelColor=0D1117" />
@@ -360,7 +351,5 @@ Building an AI-powered web app that helps students learn coding through interact
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
