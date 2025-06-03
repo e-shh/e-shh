@@ -299,10 +299,8 @@ const eshani = {
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C;Full+Stack+Developer+%F0%9F%92%BB;Code+Enthusiast+%26+Problem+Solver+%F0%9F%9A%80;Building+Tomorrow's+Technology+Today!+%E2%9C%A8" alt="Animated Header" />
 </div>
 
-<!-- Neon Divider 1 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
-</div>
+<!-- Neon divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- Achievement Gallery with Animated Title -->
 <div align="center">
@@ -314,10 +312,8 @@ const eshani = {
 </div>
 </div>
 
-<!-- Neon Divider 2 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B9D,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=80&section=header&text=&fontSize=0&animation=blinking" width="100%"/>
-</div>
+<!-- Neon divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- Daily Inspiration with Animated Title -->
 <div align="center">
@@ -329,10 +325,8 @@ const eshani = {
 </div>
 </div>
 
-<!-- Neon Divider 3 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
-</div>
+<!-- Neon divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- Commit Activity with Animated Title -->
 <div align="center">
@@ -344,10 +338,8 @@ const eshani = {
 </div>
 </div>
 
-<!-- Neon Divider 4 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B9D,50:4ECDC4,100:96CEB4&height=90&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
-</div>
+<!-- Neon divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- Contribution Highlights with Animated Title -->
 <div align="center">
@@ -356,10 +348,8 @@ const eshani = {
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=euii-ii&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </div>
 
-<!-- Neon Divider 5 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,15,20,24&height=150&section=header&text=&fontSize=0&animation=blinking" width="100%"/>
-</div>
+<!-- Neon divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- Animated Tech Stack Section -->
 <div align="center">
