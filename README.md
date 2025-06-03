@@ -254,13 +254,17 @@ const eshani = {
   </div>
 </div>
 
-<!-- Snake Animation -->
+<!-- Snake Animation & Contribution Calendar -->
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
+  <h2>🐍 Contribution Snake & Calendar</h2>
   
   <div style="background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(168, 85, 247, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(34, 197, 94, 0.2);">
     
 ![Snake animation](https://github.com/euii-ii/euii-ii/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br><br>
+
+![Commit Calendar](https://ghchart.rshah.org/FF6B9D/euii-ii)
 
   </div>
 </div>
