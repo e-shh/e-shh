@@ -1,9 +1,4 @@
 <div align="center">
-
-<!-- Dynamic Header with Particle Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:4ecdc4,50:45b7d1,75:96ceb4,100:feca57&height=150&section=header&text=&fontSize=0&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20universe&descAlignY=51&descAlign=50" width="100%"/>
-
-<!-- Holographic Title with Neon Effect -->
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9C%A8+ESHANI+PAUL+%E2%9C%A8;%F0%9F%9A%80+DIGITAL+ARCHITECT;%F0%9F%8C%9F+CODE+ARTIST" alt="Typing SVG" />
 </h1>
