@@ -361,14 +361,6 @@ Solidity 60% | Three.js 65%
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&width=900&lines=%E2%9C%A8+%22Code+is+poetry+written+in+logic%2C;and+I'm+here+to+write+masterpieces!%22+%E2%9C%A8" alt="Quote" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=900&lines=Thanks+for+exploring+my+digital+universe!+%F0%9F%8C%9F;Let's+collaborate+and+build+something+extraordinary!+%F0%9F%9A%80;Ready+to+make+an+impact+in+tech+together!+%F0%9F%92%AB;Coffee%2C+Code%2C+Create%2C+Repeat!+%E2%98%95%F0%9F%92%BB%E2%9C%A8;Innovation+starts+with+a+single+line+of+code!+%F0%9F%8C%88;Debugging+the+world%2C+one+bug+at+a+time!+%F0%9F%90%9B%E2%9C%A8" alt="Footer Message" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&duration=4000&pause=2000&color=FECA57&center=true&vCenter=true&width=700&lines=%F0%9F%8C%9F+Let's+connect+and+turn+ideas+into+digital+reality!+%F0%9F%8C%9F" alt="Call to Action" />
-
 </div>
 </div>
 
