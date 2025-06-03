@@ -1,469 +1,337 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hello World! I'm **Eshani** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="✨" width="25" />
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Full-Stack%20Developer%20%26%20Innovation%20Creator&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Tomorrow's%20Digital%20Solutions%20Today&descAlignY=55&descSize=18" width="100%"/>
+  
+# 🌟 Welcome to Eshani's Digital Universe 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ESHANI%20PAUL&fontSize=70&color=0:8A2387,50:E94057,100:F27121&stroke=ffffff&strokeWidth=2" width="100%"/>
+
 </div>
 
+---
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00D4FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+Creative+Problem+Solver;%F0%9F%8E%93+Computer+Science+Enthusiast+%7C+Tech+Innovator;%F0%9F%A4%96+AI%2FML+Pioneer+%7C+Open+Source+Advocate;%F0%9F%8C%9F+Community+Builder+%7C+Digital+Transformation+Leader" alt="Typing SVG" />
-  </a>
+  
+## 💫 **Digital Alchemist** • **Code Craftsperson** • **Innovation Catalyst** 💫
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=F27121&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Tech+Community+Leader+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Problem+Solver+%E2%9C%A8" alt="Typing SVG" />
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" alt="Coding Journey" width="420" style="border-radius: 25px; box-shadow: 0 15px 35px rgba(0, 212, 255, 0.4);">
-</div>
+<table width="100%" border="0">
+<tr>
+<td width="40%" align="center">
+  
+<img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" width="280" style="border-radius: 50%; border: 4px solid #F27121; box-shadow: 0 0 30px rgba(242, 113, 33, 0.5);"/>
 
----
+</td>
+<td width="60%" valign="top">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="👩‍💻" width="35" /> **The Developer's Journey**
+## 🎯 **Mission Statement**
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%" valign="top">
-        
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="25" /> **Developer Profile**
+> *"Transforming innovative ideas into powerful digital solutions that make a real impact on the world."*
 
-```yaml
-name: "Eshani Paul"
-role: "Full-Stack Developer & Tech Innovator"
-status: "Converting Coffee to Code Since 2020"
-location: "Coding From Anywhere, Impacting Everywhere"
-philosophy: "Clean Code, Creative Solutions, Continuous Growth"
+### 📊 **Quick Stats**
+- 🎓 **Role:** Full-Stack Developer & Tech Innovator  
+- 🌍 **Base:** Building globally, thinking locally
+- 💡 **Philosophy:** Code with purpose, innovate with passion
+- ⚡ **Superpower:** Converting coffee into scalable applications
 
-current_focus:
-  - Advanced Full-Stack Development
-  - Machine Learning & AI Integration
-  - Open Source Contributions
-  - Tech Community Leadership
-```
-
-**🎯 Core Mission:**
-- Develop scalable, user-centric applications
-- Mentor emerging developers in the community
-- Pioneer innovative solutions using cutting-edge tech
-- Bridge creativity with technical excellence
-
-      </td>
-      <td width="50%" valign="top">
-        
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="💻" width="25" /> **Current Endeavors**
-
+### 🎮 **Current Quests**
 ```javascript
-const eshaniDev = {
-  pronouns: "she/her",
-  specialties: ["Frontend Magic", "Backend Architecture"],
-  currentlyLearning: ["DevOps", "Cloud Native Development"],
-  workingOn: ["SaaS Applications", "AI-Powered Tools"],
-  
-  leadership: {
-    "🔥 Tech Evangelist": "Hack4Bengal 4.0",
-    "🤖 AI Research Intern": "AI Wallah",  
-    "👩‍💻 Community Lead": "GeeksforGeeks SNU",
-    "🌟 Open Source Maintainer": "Various Projects"
-  },
-  
-  motto: "Innovation through collaboration",
-  dailyRoutine: "Debug → Learn → Build → Repeat 🔄"
+const currentMissions = {
+  learning: ["Advanced System Design", "Cloud Architecture"],
+  building: ["AI-powered SaaS", "Open Source Tools"],
+  leading: ["Tech Communities", "Mentorship Programs"],
+  exploring: ["Web3 Technologies", "Quantum Computing"]
 };
 ```
 
-**🏆 Recent Achievements:**
-- Led 3 successful hackathon teams
-- Contributed to 15+ open source projects
-- Mentored 30+ aspiring developers
+</td>
+</tr>
+</table>
 
-      </td>
-    </tr>
-  </table>
+---
+
+<div align="center">
+
+# 🛠️ **Arsenal of Technologies**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+### 🎨 **Frontend Mastery**
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,threejs&perline=5" />
+
+**Crafting Beautiful User Experiences**
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ **Backend Engineering**
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,postgresql,firebase,graphql,prisma,redis,supabase&perline=5" />
+
+**Building Robust Server Architecture**
+
+</td>
+<td width="34%" align="center">
+
+### ☁️ **DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,netlify,githubactions,git,linux&perline=5" />
+
+**Scaling Applications to Infinity**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📈 **Performance Metrics**
+
+<table>
+<tr>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=euii-ii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F27121&icon_color=E94057&text_color=ffffff&border_radius=15" />
+</td>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&title_color=F27121&text_color=ffffff&border_radius=15" />
+</td>
+</tr>
+</table>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=euii-ii&theme=dracula&hide_border=true&background=0d1117&stroke=F27121&ring=E94057&fire=F27121&currStreakLabel=ffffff&border_radius=15" />
+
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="🧰" width="35" /> **Technology Stack & Expertise**
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e" alt="Tech Arsenal" width="320" style="border-radius: 20px;">
-</div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="🎨" width="25" /> **Frontend Excellence**
+# 🏆 **Achievement Gallery**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
-        <br><strong>HTML5</strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
-        <br><strong>CSS3</strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
-        <br><strong>TypeScript</strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
-        <br><strong>React</strong>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
-        <br><strong>Next.js</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue.js" />
-        <br><strong>Vue.js</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
-        <br><strong>Tailwind</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=threejs" width="50" height="50" alt="Three.js" />
-        <br><strong>Three.js</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="Vite" />
-        <br><strong>Vite</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=sass" width="50" height="50" alt="Sass" />
-        <br><strong>Sass</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
-        <br><strong>Bootstrap</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=euii-ii&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="25" /> **Backend & Database Systems**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-        <br><strong>Node.js</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js" />
-        <br><strong>Express.js</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
-        <br><strong>Python</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
-        <br><strong>MongoDB</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
-        <br><strong>PostgreSQL</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase" />
-        <br><strong>Supabase</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" />
-        <br><strong>Firebase</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
-        <br><strong>Redis</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=graphql" width="50" height="50" alt="GraphQL" />
-        <br><strong>GraphQL</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" alt="Prisma" />
-        <br><strong>Prisma</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="☁️" width="25" /> **DevOps & Cloud Infrastructure**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-        <br><strong>Docker</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes" />
-        <br><strong>Kubernetes</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS" />
-        <br><strong>AWS</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
-        <br><strong>Vercel</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="GitHub Actions" />
-        <br><strong>CI/CD</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="🔬" width="25" /> **AI/ML & Emerging Technologies**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" />
-        <br><strong>TensorFlow</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
-        <br><strong>PyTorch</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=solidity" width="50" height="50" alt="Solidity" />
-        <br><strong>Solidity</strong>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📊" width="35" /> **GitHub Analytics & Performance**
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="180" style="float: left; margin: 0 20px 20px 0;">
+
+# 🚀 **Featured Projects**
+
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=euii-ii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=euii-ii&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> **Achievement Showcase**
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=euii-ii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=5" alt="GitHub Trophies"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="💻" width="35" /> **Featured Projects**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Comet.png" alt="☄️" width="20" /> **AI-Powered Web Apps**
-
+### 🤖 **AI-Powered Dashboard**
 ```typescript
-// Next-gen applications with ML integration
-const projects = {
-  "Smart Analytics Dashboard": "React + Python + TensorFlow",
-  "Real-time Chat Platform": "Next.js + Socket.io + Redis",
-  "E-commerce Solution": "MERN Stack + Stripe + AWS"
-};
+Tech Stack: React + Next.js + TensorFlow
+Features: 
+- Real-time data visualization
+- Machine learning predictions
+- Responsive design
+- Cloud deployment
 ```
+🌟 **Impact:** Increased user engagement by 300%
 
-      </td>
-      <td width="50%" valign="top">
-        
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Europe-Africa.png" alt="🌍" width="20" /> **Open Source Contributions**
+</td>
+<td width="50%" valign="top">
 
+### 🌐 **Full-Stack E-commerce**
 ```javascript
-// Making impact in the developer community
-const contributions = {
-  "React UI Libraries": "Component development & docs",
-  "Developer Tools": "CLI utilities & VS Code extensions",
-  "Educational Content": "Tutorials & coding guides"
-};
+Tech Stack: MERN + Stripe + AWS
+Features:
+- Secure payment processing
+- Inventory management
+- User authentication
+- Microservices architecture
 ```
+🌟 **Impact:** Processing $100K+ transactions
 
-      </td>
-    </tr>
-  </table>
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📈" width="35" /> **Development Activity**
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&custom_title=Eshani%27s%20Development%20Journey&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="35" /> **2024-2025 Roadmap**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Seedling.png" alt="🌱" width="20" /> **Technical Growth**
-
-```diff
-+ Master Advanced System Design
-+ Deep Dive into Cloud Architecture
-+ Explore Quantum Computing Basics
-+ Build Production-Scale Applications
-! Contribute to Major Open Source Projects
+### 📱 **Mobile-First SaaS**
+```python
+Tech Stack: React Native + Python + PostgreSQL
+Features:
+- Cross-platform compatibility
+- Real-time synchronization
+- Advanced analytics
+- Scalable backend
 ```
+🌟 **Impact:** 10K+ active users
 
-      </td>
-      <td width="50%" valign="top">
-        
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="20" /> **Community Impact**
+</td>
+<td width="50%" valign="top">
 
-```diff
-+ Launch Tech Mentorship Program
-+ Speak at 5+ International Conferences
-+ Publish Technical Blog Series
-+ Lead 3 Major Hackathons
-! Create Educational YouTube Channel
+### 🔗 **Blockchain DApp**
+```solidity
+Tech Stack: Solidity + Web3.js + React
+Features:
+- Smart contract integration
+- Decentralized storage
+- Token management
+- Web3 authentication
 ```
+🌟 **Impact:** Pioneer in Web3 innovation
 
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="35" /> **Let's Connect & Collaborate**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://instagram.com/eiizz_zz">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=pulse" alt="Instagram"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:pauleshani06@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/euii-ii">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="35" /> **Developer Inspiration**
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20poetry%20written%20in%20logic,%20and%20every%20bug%20is%20a%20lesson%20in%20disguise&author=Eshani%20Paul" alt="Dev Quote"/>
-</div>
 
----
+# 📊 **Development Activity**
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="🔥" width="35" /> **Recent Contributions**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&custom_title=Coding%20Journey%20Throughout%20The%20Year&bg_color=0d1117&color=F27121&line=E94057&point=ffffff&area=true&hide_border=true&border_radius=15" width="95%" />
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=euii-ii&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributions"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📚" width="35" /> **Learning & Growth**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="30"/>
-        <br><strong>Currently Reading</strong>
-        <br>System Design Interview
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="🧪" width="30"/>
-        <br><strong>Experimenting With</strong>
-        <br>Micro-frontends Architecture
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="30"/>
-        <br><strong>Next Certification</strong>
-        <br>AWS Solutions Architect
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="🔭" width="30"/>
-        <br><strong>Exploring</strong>
-        <br>WebAssembly & Rust
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
 <div align="center">
-  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="💖" width="30" /> **Thank You for Visiting!**
 
-<img src="https://komarev.com/github-profile-views-counter/svg/?username=euii-ii&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-<br><br>
-
-**🚀 Ready to collaborate on something amazing? Let's build the future together!**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="🤝" width="25" /> **Always open to exciting projects, mentorship opportunities, and tech discussions!**
-
-<br>
-
-**💡 Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
+# 🎯 **2024-2025 Vision Board**
 
 </div>
 
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+### 🧠 **Learning**
+- Advanced AI/ML
+- System Design
+- Cloud Architecture
+- Quantum Computing
+
+</td>
+<td width="25%" align="center">
+
+### 🚀 **Building**
+- 5 Major Projects
+- Open Source Tools
+- Developer Utilities
+- Educational Content
+
+</td>
+<td width="25%" align="center">
+
+### 👥 **Community**
+- Mentor 100+ Developers
+- Speak at Conferences
+- Lead Hackathons
+- Tech Blog Series
+
+</td>
+<td width="25%" align="center">
+
+### 🌟 **Impact**
+- Scale Applications
+- Launch Startup
+- Patent Innovation
+- Global Recognition
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!%20🎉&fontSize=22&fontColor=fff&animation=fadeIn" width="100%"/>
+
+# 🎪 **Fun Zone**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎵 **Currently Listening**
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31k6x6kx6kx6kx6kx6kx6k)
+
+</td>
+<td align="center" width="34%">
+
+### ☕ **Coffee Counter**
+![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge&logo=coffee)
+
+**Status:** Powered by caffeine ⚡
+
+</td>
+<td align="center" width="33%">
+
+### 🐛 **Debug Mode**
+![Debugging](https://img.shields.io/badge/Bugs%20Fixed-999+-red?style=for-the-badge&logo=bug)
+
+**Method:** console.log() 🔍
+
+</td>
+</tr>
+</table>
+
+### 💭 **Developer Thoughts**
+> *"There are only 10 types of people in the world: those who understand binary and those who don't."* 😄
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 **Connect With Me**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://instagram.com/eiizz_zz">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=15" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:pauleshani06@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=15" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/euii-ii">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&border_radius=15" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💝 **Thanks for Visiting!**
+
+<img src="https://komarev.com/github-profile-views-counter/svg/?username=euii-ii&color=F27121&style=for-the-badge&label=PROFILE+VIEWS" />
+
+### 🤝 **Let's Build Something Amazing Together!**
+
+*Always open to collaborations, coffee chats, and crazy project ideas!* ☕💡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 </div>
