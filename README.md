@@ -214,28 +214,32 @@ const eshani = {
 </table>
 
 <br>
-<!-- Languages with Multiple Views -->
+<!-- Animated Language Showcase -->
 <div align="center">
-  <h2>💻 Programming Language Analytics</h2>
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+LANGUAGE+MASTERY;%F0%9F%9A%80+CODE+ANALYTICS;%E2%9A%A1+SKILL+BREAKDOWN" alt="Language Title" />
+  </h2>
   
-  <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.1), rgba(78, 205, 196, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(255, 107, 157, 0.2);">
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.15), rgba(78, 205, 196, 0.15), rgba(69, 183, 209, 0.15)); border-radius: 30px; padding: 35px; margin: 25px 0; border: 2px solid rgba(255, 107, 157, 0.25); backdrop-filter: blur(20px); box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);">
     
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=FF6B9D&text_color=ffffff&border_radius=25&card_width=650&langs_count=8&custom_title=🎯%20Code%20Distribution)
 
-**📊 Language Distribution**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=15&langs_count=8)
+<br>
 
-</td>
-<td width="50%" align="center">
+<!-- Language Proficiency Bars -->
+<div align="left" style="max-width: 600px; margin: 0 auto;">
 
-**🍩 Donut Chart View**
-![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=15&langs_count=6)
+**🔥 Proficiency Levels:**
 
-</td>
-</tr>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-92%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
+![Node.js](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
+![Solidity](https://img.shields.io/badge/Solidity-60%25-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636)
+
+</div>
 
   </div>
 </div>
