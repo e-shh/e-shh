@@ -295,9 +295,7 @@ const eshani = {
   </div>
 </div>
 <!-- Animated Header with Neon Effect -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C;Full+Stack+Developer+%F0%9F%92%BB;Code+Enthusiast+%26+Problem+Solver+%F0%9F%9A%80;Building+Tomorrow's+Technology+Today!+%E2%9C%A8" alt="Animated Header" />
-</div>
+
 
 <!-- Neon divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
