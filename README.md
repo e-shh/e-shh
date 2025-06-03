@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20There!%20I'm%20Eshani&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20|%20AI%20Enthusiast%20|%20Tech%20Leader&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+the+Future+with+Code;💡+Turning+Ideas+into+Digital+Reality;🌈+Creating+Magical+User+Experiences;✨+AI%2FML+Explorer+%26+Innovation+Seeker" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=FF6B9D&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👩‍💻+Passionate+Frontend+Developer;🎨+UI%2FUX+Design+Enthusiast;🤖+Exploring+AI+%26+Machine+Learning;🌟+Building+Beautiful+Digital+Experiences;⚡+From+Concept+to+Code+to+Creation" alt="Typing SVG"/>
 
 <br>
 
@@ -22,29 +22,46 @@
 
 ### 🌸 Who Am I?
 
-```javascript
-const eshani = {
-    status: "First-year BCA Student 🎓",
-    passion: ["Frontend Magic ✨", "AI Adventures 🤖"],
-    currentFocus: "Backend Development 🔧",
-    dream: "Shaping Tomorrow's Tech 🚀",
-    
-    dailyRoutine: () => {
-        while(alive) {
-            code();
-            learn();
-            innovate();
-            repeat();
-        }
-    }
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  education: string;
+  passions: string[];
+  currentJourney: string;
+  specialties: string[];
+  mindset: string;
+}
+
+const eshani: Developer = {
+  name: "Eshani Paul",
+  role: "Frontend Developer & Tech Enthusiast",
+  education: "First-year BCA Student 🎓",
+  passions: [
+    "Crafting Beautiful UIs ✨",
+    "Exploring AI/ML Frontiers 🤖",
+    "Building Seamless UX 🎨"
+  ],
+  currentJourney: "Learning Backend Development 🔧",
+  specialties: [
+    "React & Next.js Magic",
+    "Responsive Design Wizardry",
+    "Interactive Web Experiences"
+  ],
+  mindset: "Code with purpose, learn with passion 🚀"
+};
+
+// Life philosophy
+const myMotto = () => {
+  return "Turning creative visions into digital reality!";
 };
 ```
 
-### 🎯 Current Quests
-- 🎤 **Evangelist** @ Hack4Bengal 4.0
-- 🤖 **AI Intern** @ AI Wallah  
-- 💻 **Tech Member** @ GeeksforGeeks SNU
-- 📚 **Lifelong Learner** @ University of Life
+### 🎯 My Current Adventures
+- 🎤 **Community Evangelist** @ Hack4Bengal 4.0
+- 🤖 **AI Research Intern** @ AI Wallah  
+- 💻 **Technical Contributor** @ GeeksforGeeks SNU Chapter
+- 📚 **Continuous Learner** in the Tech Universe
 
 </td>
 <td width="50%">
@@ -97,83 +114,102 @@ const eshani = {
 
 <div align="center">
 
-## 💻 My Tech Constellation
+## 💻 My Tech Universe
 
-<img src="https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e" width="300" style="border-radius: 20px;">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e" width="350" style="border-radius: 20px;">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,mongodb,solidity,firebase,vercel,netlify,gcp,vite,jquery&theme=dark&perline=9" />
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 **Frontend Mastery**
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 </div>
 
-### 🎨 Frontend Artistry
+### 🔧 **Backend & Database**
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white&labelColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white&labelColor=FF4154)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
-### 🔧 Backend & Database Power
+</td>
+<td width="50%" valign="top">
+
+### ☁️ **Cloud & Deployment**
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=43853D)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
-### 🔗 Blockchain & Web3
+### 🛠️ **Tools & Frameworks**
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 
 </div>
 
-### ☁️ Cloud & Deployment
+### 🌟 **Exploring**
 <div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white&labelColor=039BE5)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 </div>
 
-### 🛠️ Tools & Utilities
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837)
-![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=F69220)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
+### 🎯 **My Frontend Focus Areas**
+
+```mermaid
+graph TD
+    A[🎨 Frontend Development] --> B[⚛️ React Ecosystem]
+    A --> C[🎭 UI/UX Design]
+    A --> D[📱 Responsive Design]
+    A --> E[🚀 Performance Optimization]
+    
+    B --> F[Next.js]
+    B --> G[React Query]
+    B --> H[Context API]
+    
+    C --> I[Tailwind CSS]
+    C --> J[Component Libraries]
+    C --> K[Design Systems]
+    
+    D --> L[Mobile-First]
+    D --> M[Cross-Browser]
+    D --> N[Accessibility]
+```
 
 </div>
 
