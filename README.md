@@ -212,27 +212,7 @@ const eshani = {
 </td>
 </tr>
 </table>
-<!-- GitHub Commit Activity Graph -->
-<div align="center">
-  <h2>📈 Commit Activity Graph</h2>
-  
-  <div style="background: linear-gradient(135deg, rgba(139, 69, 19, 0.1), rgba(255, 140, 0, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(255, 140, 0, 0.2);">
-    
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&theme=react-dark&bg_color=0d1117&color=FF6B9D&line=4ECDC4&point=FECA57&area=true&hide_border=true&radius=20)
 
-  </div>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  
-  <div style="background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(168, 85, 247, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(34, 197, 94, 0.2);">
-    
-![Snake animation](https://github.com/euii-ii/euii-ii/blob/output/github-contribution-grid-snake-dark.svg)
-
-  </div>
-</div>
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=20)
@@ -259,6 +239,28 @@ const eshani = {
   <div style="background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), rgba(59, 130, 246, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(16, 185, 129, 0.2);">
     
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_category=programming)
+
+  </div>
+</div>
+
+<!-- GitHub Commit Activity Graph -->
+<div align="center">
+  <h2>📈 Commit Activity Graph</h2>
+  
+  <div style="background: linear-gradient(135deg, rgba(139, 69, 19, 0.1), rgba(255, 140, 0, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(255, 140, 0, 0.2);">
+    
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&custom_title=Eshani's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&color=FF6B9D&line=4ECDC4&point=FECA57&area=true&hide_border=true&radius=20)
+
+  </div>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  
+  <div style="background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(168, 85, 247, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(34, 197, 94, 0.2);">
+    
+![Snake animation](https://github.com/euii-ii/euii-ii/blob/output/github-contribution-grid-snake-dark.svg)
 
   </div>
 </div>
