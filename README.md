@@ -214,35 +214,31 @@ const eshani = {
 </table>
 
 <br>
-<!-- Languages with Multiple Views -->
+<!-- Detailed Language Analytics -->
 <div align="center">
-  <h2>💻 Programming Language Analytics</h2>
+  <h2>🔥 Language Mastery Dashboard</h2>
   
   <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.1), rgba(78, 205, 196, 0.1)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 1px solid rgba(255, 107, 157, 0.2);">
     
+<!-- Primary Languages Grid -->
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="60%" align="center">
 
-**📊 Language Distribution**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=15&langs_count=8)
-
-</td>
-<td width="50%" align="center">
-
-**🍩 Donut Chart View**
-![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=15&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=20&card_width=500&langs_count=10&exclude_repo=euii-ii,your-repo-name)
 
 </td>
-</tr>
-</table>
+<td width="40%" align="center">
 
-  </div>
-</div>
-
-</div>
-
-</div>
+**🎯 Focus Areas**
+```javascript
+const mySkills = {
+  frontend: ["JavaScript", "TypeScript", "React"],
+  styling: ["CSS", "HTML", "Tailwind"],
+  backend: ["Node.js", "MongoDB"],
+  blockchain: ["Solidity"],
+  learning: ["Python", "Rust", "Go"]
+};
 
 <!-- Trophy Showcase -->
 <div align="center">
