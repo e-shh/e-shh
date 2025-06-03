@@ -256,7 +256,7 @@ const eshani = {
 <br>
 JavaScript 95% | TypeScript 85% | React 90%
 
-<br><br>
+<br>
 
 **Styling & Markup:**
 <br><br>
@@ -264,7 +264,7 @@ JavaScript 95% | TypeScript 85% | React 90%
 <br>
 HTML5 95% | CSS3 92% | TailwindCSS 88%
 
-<br><br>
+<br>
 
 **Backend & Database:**
 <br><br>
@@ -272,7 +272,7 @@ HTML5 95% | CSS3 92% | TailwindCSS 88%
 <br>
 Node.js 75% | MongoDB 70%
 
-<br><br>
+<br>
 
 **Emerging Technologies:**
 <br><br>
