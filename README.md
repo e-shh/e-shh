@@ -135,20 +135,11 @@ const eshani = {
   
   <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.1), rgba(78, 205, 196, 0.1)); border-radius: 20px; padding: 25px; margin: 20px 0; border: 1px solid rgba(255, 107, 157, 0.2);">
     
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,tailwind&theme=dark" alt="Frontend Technologies" />
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white&labelColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
+<br><br>
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white&labelColor=FF4154)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD)
+<img src="https://skillicons.dev/icons?i=vite,threejs,jquery&theme=dark" alt="Frontend Tools" />
 
   </div>
 </div>
@@ -159,14 +150,11 @@ const eshani = {
   
   <div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); border-radius: 20px; padding: 25px; margin: 20px 0; border: 1px solid rgba(69, 183, 209, 0.2);">
     
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=3ECF8E)
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,firebase&theme=dark" alt="Backend Technologies" />
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=netlify,vercel,gcp&theme=dark" alt="Cloud Platforms" />
 
   </div>
 </div>
@@ -177,10 +165,7 @@ const eshani = {
   
   <div style="background: linear-gradient(135deg, rgba(254, 202, 87, 0.1), rgba(255, 107, 107, 0.1)); border-radius: 20px; padding: 25px; margin: 20px 0; border: 1px solid rgba(254, 202, 87, 0.2);">
     
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837)
-![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=F69220)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC)
+<img src="https://skillicons.dev/icons?i=solidity,npm,c,git&theme=dark" alt="Tools and Languages" />
 
   </div>
 </div>
@@ -271,22 +256,34 @@ const eshani = {
 <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.08), rgba(78, 205, 196, 0.08)); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255, 107, 157, 0.15);">
 
 **Frontend Technologies:**
-![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
-![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+<br><br>
+<img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" alt="Frontend Core" />
+<br>
+JavaScript 95% | TypeScript 85% | React 90%
+
+<br><br>
 
 **Styling & Markup:**
-![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-92%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-88%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" alt="Styling Technologies" />
+<br>
+HTML5 95% | CSS3 92% | TailwindCSS 88%
+
+<br><br>
 
 **Backend & Database:**
-![Node.js](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" alt="Backend Technologies" />
+<br>
+Node.js 75% | MongoDB 70%
+
+<br><br>
 
 **Emerging Technologies:**
-![Solidity](https://img.shields.io/badge/Solidity-60%25-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636)
-![Three.js](https://img.shields.io/badge/Three.js-65%25-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000)
+<br><br>
+<img src="https://skillicons.dev/icons?i=solidity,threejs&theme=dark" alt="Emerging Tech" />
+<br>
+Solidity 60% | Three.js 65%
 
 </div>
 
@@ -351,12 +348,12 @@ const eshani = {
 
 <!-- Animated Tech Stack Section -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=96CEB4&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+ARSENAL+%F0%9F%9B%A0%EF%B8%8F;%E2%9A%A1+SKILLS+%26+TOOLS+%E2%9A%A1;%F0%9F%92%BB+TECHNOLOGY+STACK+%F0%9F%92%BB" alt="Tech Stack Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=96CEB4&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A0%EF%B8%8F+COMPLETE+TECH+STACK+%F0%9F%9B%A0%EF%B8%8F;%E2%9A%A1+ALL+SKILLS+%26+TOOLS+%E2%9A%A1;%F0%9F%92%BB+FULL+TECHNOLOGY+ARSENAL+%F0%9F%92%BB" alt="Complete Tech Stack Title" />
 
 <div style="background: linear-gradient(135deg, rgba(150, 206, 180, 0.15), rgba(69, 183, 209, 0.15), rgba(147, 51, 234, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(150, 206, 180, 0.4); box-shadow: 0 0 30px rgba(150, 206, 180, 0.3);">
 
-<!-- Add your tech stack icons here -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,docker,aws,mongodb,postgresql&theme=dark" alt="Tech Stack" />
+<!-- Complete Tech Stack -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,git,github,vscode,figma,firebase,netlify,vercel&theme=dark" alt="Complete Tech Stack" />
 
 </div>
 </div>
