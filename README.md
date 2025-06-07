@@ -5,7 +5,7 @@
 
 <!-- Cyberpunk-style animated subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=FF6B9D&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Frontend+Developer+%7C+AI+Enthusiast+%7C+Tech+Innovator;Building+Tomorrow's+Web+Experiences;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Creative+Problem+Solver+%2B+Digital+Artist" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=FF6B9D&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+Tech+Innovator;Building+Tomorrow's+Web+Experiences;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Creative+Problem+Solver+%2B+Digital+Artist" alt="Subtitle" />
 </div>
 
 <!-- Neon divider -->
@@ -60,8 +60,8 @@ const eshani = {
 
 > **"Building digital experiences that matter, one pixel at a time"**
 
-🎓 **First-year BCA Student** passionate about technology and innovation  
-🎨 **Frontend Specialist** crafting beautiful, responsive interfaces  
+🎓 **Second-year BCA Student** passionate about technology and innovation  
+🎨 **Full Stack Specialist** crafting beautiful, responsive interfaces  
 🤖 **AI Enthusiast** exploring the future of intelligent applications  
 🚀 **Community Leader** inspiring the next generation of developers  
 
@@ -124,17 +124,17 @@ const eshani = {
 
 </div>
 
-<!-- Frontend Technologies -->
+<!-- Full Stack Technologies -->
 <div align="center">
-  <h3>🎨 Frontend Mastery</h3>
+  <h3>🎨 Full Stack Mastery</h3>
   
   <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.1), rgba(78, 205, 196, 0.1)); border-radius: 20px; padding: 25px; margin: 20px 0; border: 1px solid rgba(255, 107, 157, 0.2);">
     
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,tailwind&theme=dark" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,tailwind&theme=dark" alt="Full Stack Technologies" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vite,threejs,jquery&theme=dark" alt="Frontend Tools" />
+<img src="https://skillicons.dev/icons?i=vite,threejs,jquery&theme=dark" alt="Full Stack Tools" />
 
   </div>
 </div>
@@ -250,9 +250,9 @@ const eshani = {
 
 <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.08), rgba(78, 205, 196, 0.08)); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255, 107, 157, 0.15);">
 
-**Frontend Technologies:**
+**Full Stack Technologies:**
 <br><br>
-<img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" alt="Frontend Core" />
+<img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" alt="Full Stack Core" />
 <br>
 JavaScript 95% | TypeScript 85% | React 90%
 
@@ -363,4 +363,3 @@ Solidity 60% | Three.js 65%
 
 </div>
 </div>
-
