@@ -236,59 +236,6 @@ const eshani = {
 </tr>
 </table>
 
-<br>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-
-<br>
-
-<!-- Enhanced Proficiency Section -->
-<div align="center" style="max-width: 750px; margin: 0 auto;">
-
-### 🔥 Mastery Levels
-
-<div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.08), rgba(78, 205, 196, 0.08)); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255, 107, 157, 0.15);">
-
-**Full Stack Technologies:**
-<br><br>
-<img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" alt="Full Stack Core" />
-<br>
-JavaScript 95% | TypeScript 85% | React 90%
-
-<br>
-
-**Styling & Markup:**
-<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" alt="Styling Technologies" />
-<br>
-HTML5 95% | CSS3 92% | TailwindCSS 88%
-
-<br>
-
-**Backend & Database:**
-<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" alt="Backend Technologies" />
-<br>
-Node.js 75% | MongoDB 70%
-
-<br>
-
-**Emerging Technologies:**
-<br><br>
-<img src="https://skillicons.dev/icons?i=solidity,threejs&theme=dark" alt="Emerging Tech" />
-<br>
-Solidity 60% | Three.js 65%
-
-</div>
-
-</div>
-
-  </div>
-</div>
-<!-- Animated Header with Neon Effect -->
-
-
 <!-- Neon divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -305,18 +252,6 @@ Solidity 60% | Three.js 65%
 <!-- Neon divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- Daily Inspiration with Animated Title -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2800&pause=1200&color=4ECDC4&center=true&vCenter=true&width=700&lines=%F0%9F%92%AD+DAILY+INSPIRATION+%F0%9F%92%AD;%E2%9C%A8+WISDOM+FOR+CODERS+%E2%9C%A8;%F0%9F%8C%9F+MOTIVATION+STATION+%F0%9F%8C%9F" alt="Inspiration Title" />
-  
-<div style="background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(59, 130, 246, 0.15), rgba(147, 51, 234, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(16, 185, 129, 0.4); box-shadow: 0 0 30px rgba(78, 205, 196, 0.3);">
-    
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_category=programming)
-</div>
-</div>
-
-<!-- Neon divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- Commit Activity with Animated Title -->
 <div align="center">
@@ -341,20 +276,6 @@ Solidity 60% | Three.js 65%
 <!-- Neon divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- Animated Tech Stack Section -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=96CEB4&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A0%EF%B8%8F+COMPLETE+TECH+STACK+%F0%9F%9B%A0%EF%B8%8F;%E2%9A%A1+ALL+SKILLS+%26+TOOLS+%E2%9A%A1;%F0%9F%92%BB+FULL+TECHNOLOGY+ARSENAL+%F0%9F%92%BB" alt="Complete Tech Stack Title" />
-
-<div style="background: linear-gradient(135deg, rgba(150, 206, 180, 0.15), rgba(69, 183, 209, 0.15), rgba(147, 51, 234, 0.15)); border-radius: 25px; padding: 30px; margin: 20px 0; border: 2px solid rgba(150, 206, 180, 0.4); box-shadow: 0 0 30px rgba(150, 206, 180, 0.3);">
-
-<!-- Complete Tech Stack -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,git,github,vscode,firebase,netlify,vercel&theme=dark" alt="Complete Tech Stack" />
-
-</div>
-</div>
-
->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- Final Message with Enhanced Holographic Effect -->
 <div align="center">
 <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.2), rgba(78, 205, 196, 0.2), rgba(69, 183, 209, 0.2), rgba(150, 206, 180, 0.2)); border-radius: 30px; padding: 40px; margin: 30px 0; border: 3px solid rgba(255, 107, 157, 0.4); backdrop-filter: blur(20px); box-shadow: 0 0 50px rgba(255, 107, 157, 0.3), inset 0 0 50px rgba(78, 205, 196, 0.1);">
