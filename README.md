@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9C%A8+ESHANI+PAUL+%E2%9C%A8;%F0%9F%9A%80+DIGITAL+ARCHITECT;%F0%9F%8C%9F+CODE+ARTIST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9C%A8+ESHANI+PAUL+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <!-- Cyberpunk-style animated subtitle -->
