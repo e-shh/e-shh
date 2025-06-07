@@ -114,15 +114,7 @@ const eshani = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- Tech Stack Section with Holographic Cards -->
-<div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+TECH+ARSENAL;%E2%9A%A1+SKILLS+%26+TOOLS;%F0%9F%9A%80+MY+PLAYGROUND" alt="Tech Arsenal" />
-</h1>
-
-<img src="https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e" width="350" style="border-radius: 25px; margin: 20px 0; filter: drop-shadow(0 15px 30px rgba(78, 205, 196, 0.4));" />
-
-</div>
 
 <!-- Full Stack Technologies -->
 <div align="center">
