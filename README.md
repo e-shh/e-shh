@@ -126,16 +126,21 @@ const eshani = {
 
 <!-- Full Stack Technologies -->
 <div align="center">
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+TECH+ARSENAL;%E2%9A%A1+SKILLS+%26+TOOLS;%F0%9F%9A%80+MY+PLAYGROUND" alt="Tech Arsenal" />
+</h1>
+<img src="https://github.com/user-attachments/assets/29ce6006-a5fd-4f14-a8ea-62f545fdbf6e" width="250" style="border-radius: 25px; margin: 20px 0; filter: drop-shadow(0 15px 30px rgba(78, 205, 196, 0.4));" />
+</div>
+
+<!-- Full Stack Technologies -->
+<div align="center">
   <h3>🎨 Full Stack Mastery</h3>
   
   <div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.1), rgba(78, 205, 196, 0.1)); border-radius: 20px; padding: 25px; margin: 20px 0; border: 1px solid rgba(255, 107, 157, 0.2);">
     
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,tailwind&theme=dark" alt="Full Stack Technologies" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,tailwind&theme=dark&perline=8" width="280" alt="Full Stack Technologies" />
 <br>
-
-<img src="https://skillicons.dev/icons?i=vite,threejs,jquery&theme=dark" alt="Full Stack Tools" />
-
+<img src="https://skillicons.dev/icons?i=vite,threejs,jquery&theme=dark&perline=3" width="105" alt="Full Stack Tools" />
   </div>
 </div>
 
@@ -145,12 +150,9 @@ const eshani = {
   
   <div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); border-radius: 20px; padding: 25px; margin: 20px 0; border: 1px solid rgba(69, 183, 209, 0.2);">
     
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,firebase&theme=dark" alt="Backend Technologies" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,firebase&theme=dark&perline=4" width="140" alt="Backend Technologies" />
 <br>
-
-<img src="https://skillicons.dev/icons?i=netlify,vercel,gcp&theme=dark" alt="Cloud Platforms" />
-
+<img src="https://skillicons.dev/icons?i=netlify,vercel,gcp&theme=dark&perline=3" width="105" alt="Cloud Platforms" />
   </div>
 </div>
 
@@ -160,8 +162,7 @@ const eshani = {
   
   <div style="background: linear-gradient(135deg, rgba(254, 202, 87, 0.1), rgba(255, 107, 107, 0.1)); border-radius: 20px; padding: 25px; margin: 20px 0; border: 1px solid rgba(254, 202, 87, 0.2);">
     
-<img src="https://skillicons.dev/icons?i=solidity,npm,c,git&theme=dark" alt="Tools and Languages" />
-
+<img src="https://skillicons.dev/icons?i=solidity,npm,c,git&theme=dark&perline=4" width="140" alt="Tools and Languages" />
   </div>
 </div>
 
