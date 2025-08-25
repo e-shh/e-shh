@@ -1,8 +1,11 @@
 <div align="center">
 
+# Eshani Paul
+### Full Stack Developer • AI Enthusiast • Tech Innovator
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+with+modern+technology;Passionate+about+creating+meaningful+digital+experiences;Always+learning%2C+always+growing" alt="Typing SVG" />
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
@@ -28,7 +31,7 @@ const developer = {
 </td>
 <td width="65%">
 
-## HOLLA!!
+## About Me
 
 > *"Crafting digital experiences that bridge creativity and functionality"*
 
@@ -48,6 +51,7 @@ I'm passionate about building responsive, user-centric applications while explor
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠 Technical Expertise
 
@@ -64,6 +68,7 @@ I'm passionate about building responsive, user-centric applications while explor
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📊 GitHub Analytics
 
@@ -84,19 +89,21 @@ I'm passionate about building responsive, user-centric applications while explor
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-shh&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff6b6b&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=e-shh&theme=tokyonight_duo&hide_border=true&border_radius=10)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🏆 Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=e-shh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
+[![trophy](https://github-profile-trophy.vercel.app/?username=e-shh&theme=nord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📈 Contribution Activity
 
@@ -106,6 +113,7 @@ I'm passionate about building responsive, user-centric applications while explor
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🤝 Let's Connect
 
@@ -115,6 +123,15 @@ I'm passionate about building responsive, user-centric applications while explor
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/eiizz_zz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pauleshani06@gmail.com)
 
+<br>
+
+*"Every line of code is a step toward building something extraordinary"*
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=e-shh&color=58a6ff&style=flat&label=Profile+Views)
+
+</div>
 <br>
 
 *"Every line of code is a step toward building something extraordinary"*
