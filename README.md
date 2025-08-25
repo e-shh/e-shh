@@ -62,22 +62,31 @@ I'm passionate about building responsive, user-centric applications while explor
 
 </div>
 
+## 📊 GitHub Analytics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=e-shh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=e-shh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=e-shh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=e-shh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=e-shh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<tr>
 
----
-[![](https://visitcount.itsvg.in/api?id=e-shh&icon=2&color=2)](https://visitcount.itsvg.in)
+<td width="50%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-shh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
+
+</td>
+
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-shh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 
 
