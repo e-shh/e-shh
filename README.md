@@ -5,7 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+with+modern+technology;Passionate+about+creating+meaningful+digital+experiences;Always+learning%2C+always+growing" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
