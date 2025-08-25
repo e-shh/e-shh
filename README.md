@@ -82,21 +82,12 @@ I'm passionate about building responsive, user-centric applications while explor
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-shh&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff6b6b&currStreakLabel=58a6ff)
+
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=e-shh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📈 Contribution Activity
 
