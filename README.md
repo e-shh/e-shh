@@ -78,18 +78,18 @@ I'm passionate about building responsive, user-centric applications while explor
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-shh&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6366f1&icon_color=8b5cf6&text_color=374151&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-shh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-shh&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=374151&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-shh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=e-shh&theme=default&hide_border=true&background=ffffff&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=6366f1&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-shh&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
 </div>
 
@@ -99,7 +99,7 @@ I'm passionate about building responsive, user-centric applications while explor
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=e-shh&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=4&cache_seconds=86400)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=e-shh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
 
 </div>
 
@@ -109,7 +109,7 @@ I'm passionate about building responsive, user-centric applications while explor
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-shh&custom_title=Contribution%20Graph&theme=github-compact&bg_color=ffffff&color=6366f1&line=8b5cf6&point=f59e0b&area=true&hide_border=true&cache_seconds=3600)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-shh&custom_title=Contribution%20Graph&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff6b6b&area=true&hide_border=true)
 
 </div>
 
@@ -129,6 +129,6 @@ I'm passionate about building responsive, user-centric applications while explor
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=e-shh&color=6366f1&style=flat&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=e-shh&color=58a6ff&style=flat&label=Profile+Views)
 
 </div>
