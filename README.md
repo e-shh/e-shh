@@ -78,18 +78,18 @@ I'm passionate about building responsive, user-centric applications while explor
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euii-ii&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6366f1&icon_color=8b5cf6&text_color=374151)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euii-ii&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6366f1&icon_color=8b5cf6&text_color=374151&cache_seconds=86400)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=374151)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=374151&cache_seconds=86400)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=euii-ii&theme=default&hide_border=true&background=ffffff&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=6366f1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=euii-ii&theme=default&hide_border=true&background=ffffff&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=6366f1&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
@@ -99,7 +99,7 @@ I'm passionate about building responsive, user-centric applications while explor
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=euii-ii&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=euii-ii&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=4&cache_seconds=86400)
 
 </div>
 
@@ -109,7 +109,7 @@ I'm passionate about building responsive, user-centric applications while explor
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&custom_title=Contribution%20Graph&theme=github-compact&bg_color=ffffff&color=6366f1&line=8b5cf6&point=f59e0b&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&custom_title=Contribution%20Graph&theme=github-compact&bg_color=ffffff&color=6366f1&line=8b5cf6&point=f59e0b&area=true&hide_border=true&cache_seconds=3600)
 
 </div>
 
