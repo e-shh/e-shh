@@ -50,7 +50,6 @@ I'm passionate about building responsive, user-centric applications while explor
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠 Technical Expertise
 
@@ -67,7 +66,6 @@ I'm passionate about building responsive, user-centric applications while explor
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📊 GitHub Analytics
 
@@ -92,7 +90,6 @@ I'm passionate about building responsive, user-centric applications while explor
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🏆 Achievements
 
@@ -102,7 +99,6 @@ I'm passionate about building responsive, user-centric applications while explor
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📈 Contribution Activity
 
@@ -112,7 +108,6 @@ I'm passionate about building responsive, user-centric applications while explor
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🤝 Let's Connect
 
