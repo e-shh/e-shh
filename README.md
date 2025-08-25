@@ -28,7 +28,7 @@ const developer = {
 </td>
 <td width="65%">
 
-## About Me
+## HOLLA!!
 
 > *"Crafting digital experiences that bridge creativity and functionality"*
 
