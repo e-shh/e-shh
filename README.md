@@ -31,50 +31,6 @@ I'm currently expanding my proficiency in **DevOps and Cloud Computing** to stre
 </tr>
 </table>
 
-## 🛠 Technical Expertise
-
-<div align="center">
-
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=light" alt="Frontend Skills" />
-
-### Backend & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,supabase,vercel,netlify&theme=light" alt="Backend Skills" />
-
-### Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,c,solidity,npm,vite,threejs&theme=light" alt="Tools" />
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-shh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-shh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-shh&custom_title=Contribution%20Graph&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff6b6b&area=true&hide_border=true)
-
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
