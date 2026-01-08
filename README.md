@@ -27,13 +27,7 @@ I'm a dedicated and results-driven **second-year BCA student** with a strong pas
 
 I'm currently expanding my proficiency in **DevOps and Cloud Computing** to strengthen my understanding of modern infrastructure and deployment practices. I'm committed to continuous learning and innovation, with the goal of leveraging technology to create impactful solutions that contribute to meaningful digital transformation.
 
-### Experience & Involvement
 
-- **🌟 Open Source Contributor** at GSSOC'25
-- **☁️ Core Team Member** at CNCF Durgapur (Event & Web Team)
-- **💻 Core & Tech Team** at GeeksforGeeks SNU
-- **🚀 Core & Tech Team** at Coding Ninja SNU
-- **🏆 2X Hackathon Winner** & Open Source Advocate
 
 </td>
 </tr>
