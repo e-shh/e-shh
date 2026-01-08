@@ -1,15 +1,10 @@
 <div align="center">
-
-
-
 </div>
 
 <table width="100%">
 <tr>
 <td width="35%" align="center">
-
 <img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" width="280" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.2);" />
-
 <br>
 
 ```typescript
@@ -18,34 +13,31 @@ const developer = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
   education: "BCA Student",
-  status: "Building & Learning",
-  passion: ["Clean Code", "Innovation"]
+  focus: ["Frontend", "Backend", "DevOps"],
+  status: "Building & Learning"
 };
 ```
 
 </td>
 <td width="65%">
 
-## HOLLA!!
+## Hola! This is Eshani Paul.
 
-> *"Crafting digital experiences that bridge creativity and functionality"*
+I'm a dedicated and results-driven **second-year BCA student** with a strong passion for technology and innovation. My core expertise lies in **full stack development**, where I specialize in designing clean, intuitive, and responsive user interfaces complemented by efficient and scalable backend systems.
 
-I'm a **second-year BCA student** with a deep passion for technology and innovation. My journey in software development is driven by the belief that elegant code can create meaningful impact.
+I'm currently expanding my proficiency in **DevOps and Cloud Computing** to strengthen my understanding of modern infrastructure and deployment practices. I'm committed to continuous learning and innovation, with the goal of leveraging technology to create impactful solutions that contribute to meaningful digital transformation.
 
-### Professional Experience
+### Experience & Involvement
+
 - **🌟 Open Source Contributor** at GSSOC'25
 - **☁️ Core Team Member** at CNCF Durgapur (Event & Web Team)
 - **💻 Core & Tech Team** at GeeksforGeeks SNU
 - **🚀 Core & Tech Team** at Coding Ninja SNU
 - **🏆 2X Hackathon Winner** & Open Source Advocate
 
-### What Drives Me
-I'm passionate about building responsive, user-centric applications while exploring the fascinating world of artificial intelligence. I believe in continuous learning and contributing to the developer community.
-
 </td>
 </tr>
 </table>
-
 
 ## 🛠 Technical Expertise
 
@@ -67,28 +59,21 @@ I'm passionate about building responsive, user-centric applications while explor
 <div align="center">
 
 <table>
-
 <tr>
-
 <td width="50%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-shh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
 
 </td>
-
 <td width="50%">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-shh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </td>
-
 </tr>
-
 </table>
 
 </div>
-
-
 
 ## 📈 Contribution Activity
 
@@ -97,7 +82,6 @@ I'm passionate about building responsive, user-centric applications while explor
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-shh&custom_title=Contribution%20Graph&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff6b6b&area=true&hide_border=true)
 
 </div>
-
 
 ## 🤝 Let's Connect
 
