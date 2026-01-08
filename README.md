@@ -27,8 +27,6 @@ I'm a dedicated and results-driven **second-year BCA student** with a strong pas
 
 I'm currently expanding my proficiency in **DevOps and Cloud Computing** to strengthen my understanding of modern infrastructure and deployment practices. I'm committed to continuous learning and innovation, with the goal of leveraging technology to create impactful solutions that contribute to meaningful digital transformation.
 
-
-
 </td>
 </tr>
 </table>
