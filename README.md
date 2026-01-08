@@ -3,9 +3,8 @@
 
 <table width="100%">
 <tr>
-<td width="35%" align="center">
-<img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" width="280" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.2);" />
-<br>
+<td width="40%" align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" width="240" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.2);" />
 
 ```typescript
 const developer = {
@@ -19,7 +18,7 @@ const developer = {
 ```
 
 </td>
-<td width="65%">
+<td width="60%" valign="top">
 
 ## Hola! This is Eshani Paul.
 
